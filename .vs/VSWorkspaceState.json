@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BankCRM.CRM",
+    "\\BankCRM.CRM\\Data",
+    "\\BankCRM.CRM\\Data\\Configurations",
+    "\\BankCRM.CRM\\Data\\Databases",
+    "\\BankCRM.CRM\\Domain",
+    "\\BankCRM.CRM\\Domain\\Entities",
+    "\\BankCRM.CRM\\Service",
+    "\\BankCRM.CRM\\Service\\Users",
+    "\\BankCRM.CRM\\UI"
+  ],
+  "SelectedNode": "\\BankCRM.CRM\\Service\\Users\\Service.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,15 @@
+C:\Users\asadb\OneDrive\Рабочий стол\BankCRM.CRM\BankCRM.CRM\obj\Debug\net6.0\BankCRM.CRM.csproj.AssemblyReference.cache
+C:\Users\asadb\OneDrive\Рабочий стол\BankCRM.CRM\BankCRM.CRM\obj\Debug\net6.0\BankCRM.CRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asadb\OneDrive\Рабочий стол\BankCRM.CRM\BankCRM.CRM\obj\Debug\net6.0\BankCRM.CRM.AssemblyInfoInputs.cache
+C:\Users\asadb\OneDrive\Рабочий стол\BankCRM.CRM\BankCRM.CRM\obj\Debug\net6.0\BankCRM.CRM.AssemblyInfo.cs
+C:\Users\asadb\OneDrive\Рабочий стол\BankCRM.CRM\BankCRM.CRM\obj\Debug\net6.0\BankCRM.CRM.csproj.CoreCompileInputs.cache
+C:\Users\asadb\OneDrive\Рабочий стол\BankCRM.CRM\BankCRM.CRM\bin\Debug\net6.0\BankCRM.CRM.exe
+C:\Users\asadb\OneDrive\Рабочий стол\BankCRM.CRM\BankCRM.CRM\bin\Debug\net6.0\BankCRM.CRM.deps.json
+C:\Users\asadb\OneDrive\Рабочий стол\BankCRM.CRM\BankCRM.CRM\bin\Debug\net6.0\BankCRM.CRM.runtimeconfig.json
+C:\Users\asadb\OneDrive\Рабочий стол\BankCRM.CRM\BankCRM.CRM\bin\Debug\net6.0\BankCRM.CRM.dll
+C:\Users\asadb\OneDrive\Рабочий стол\BankCRM.CRM\BankCRM.CRM\bin\Debug\net6.0\BankCRM.CRM.pdb
+C:\Users\asadb\OneDrive\Рабочий стол\BankCRM.CRM\BankCRM.CRM\obj\Debug\net6.0\BankCRM.CRM.dll
+C:\Users\asadb\OneDrive\Рабочий стол\BankCRM.CRM\BankCRM.CRM\obj\Debug\net6.0\refint\BankCRM.CRM.dll
+C:\Users\asadb\OneDrive\Рабочий стол\BankCRM.CRM\BankCRM.CRM\obj\Debug\net6.0\BankCRM.CRM.pdb
+C:\Users\asadb\OneDrive\Рабочий стол\BankCRM.CRM\BankCRM.CRM\obj\Debug\net6.0\BankCRM.CRM.genruntimeconfig.cache
+C:\Users\asadb\OneDrive\Рабочий стол\BankCRM.CRM\BankCRM.CRM\obj\Debug\net6.0\ref\BankCRM.CRM.dll
